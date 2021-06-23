@@ -1,0 +1,15 @@
+ITAcademy\Entity\Student$StudentBuilder.class
+ITAcademy\Entity\Teacher.class
+ITAcademy\Entity\ReviewTask$ReviewTaskBuilder.class
+ITAcademy\Entity\Student.class
+ITAcademy\Entity\Course$CourseBuilder.class
+ITAcademy\App.class
+ITAcademy\Entity\Review.class
+ITAcademy\Util\HibernateUtil.class
+ITAcademy\Entity\Review$ReviewBuilder.class
+ITAcademy\Entity\Teacher$TeacherBuilder.class
+ITAcademy\Entity\Course.class
+ITAcademy\Entity\Task$TaskBuilder.class
+ITAcademy\Entity\ReviewTask.class
+ITAcademy\Entity\Task.class
+com\example\WEBCourses\HelloCourses.class
